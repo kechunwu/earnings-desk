@@ -3336,10 +3336,7 @@
     "filing_form": "10-K",
     "filing_accn": "0001640147-23-000030",
     "filing_date": "2023-03-29",
-    "filing_url": "https://www.sec.gov/Archives/edgar/data/1640147/000164014723000030/snow-20230131.htm",
-    "earnings_8k_accn": "0001640147-23-000004",
-    "earnings_8k_date": "2023-03-01",
-    "earnings_8k_url": "https://www.sec.gov/Archives/edgar/data/1640147/000164014723000004/0001640147-23-000004-index.htm"
+    "filing_url": "https://www.sec.gov/Archives/edgar/data/1640147/000164014723000030/snow-20230131.htm"
    },
    "metrics": {
     "revenue": {
