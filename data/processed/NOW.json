@@ -11660,10 +11660,7 @@
     "filing_form": "10-K",
     "filing_accn": "0001373715-23-000035",
     "filing_date": "2023-01-31",
-    "filing_url": "https://www.sec.gov/Archives/edgar/data/1373715/000137371523000035/now-20221231.htm",
-    "earnings_8k_accn": "0001373715-23-000016",
-    "earnings_8k_date": "2023-01-25",
-    "earnings_8k_url": "https://www.sec.gov/Archives/edgar/data/1373715/000137371523000016/0001373715-23-000016-index.htm"
+    "filing_url": "https://www.sec.gov/Archives/edgar/data/1373715/000137371523000035/now-20221231.htm"
    },
    "metrics": {
     "revenue": {
